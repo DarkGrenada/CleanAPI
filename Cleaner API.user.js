@@ -384,7 +384,7 @@ var RunSave = false;
 			var count = 0;
 			for(var i = 0; i < 25; i++){
 				if(stateOfButtons[i]){
-					$('title').text(SroNum + "5" + buttonNumber);
+					$('title').text(SroNum + " - Line " + buttonNumber);
 					count++;
 				}
 			}
