@@ -2,8 +2,8 @@
 // @name         Cleaner API
 // @namespace    http://tampermonkey.net/
 // @version      1.2.85
-// @updateURL    https://github.com/DarkGrenada/CleanAPI/blob/master/Cleaner%20API.user.js
-// @downloadURL  https://github.com/DarkGrenada/CleanAPI/blob/master/Cleaner%20API.user.js
+// @updateURL    https://github.com/Vector-98/CleanAPI/raw/master/Cleaner%20API.user.js
+// @downloadURL  https://github.com/Vector-98/CleanAPI/raw/master/Cleaner%20API.user.js
 // @description  try to make things better for everyone
 // @author       Vector, Dylon L, Kevin B
 // @match        https://fireflycomputers.com/api-sro/
